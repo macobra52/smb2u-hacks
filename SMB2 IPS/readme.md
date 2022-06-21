@@ -20,8 +20,8 @@ Carry Most Things Through Doors
 ------
 
 Allows you to carry most items and enemies through doors (instead of just keys). Note that this does not include Hawkgates since you would then be able to carry things across levels. Also note the following:
--Bombs and Bob-ombs carried through doors will immediately explode in the next room
--Mushroom Blocks still cannot be carried through doors (for unknown reasons)
+* Bombs and Bob-ombs carried through doors will immediately explode in the next room
+* Mushroom Blocks still cannot be carried through doors (for unknown reasons)
 
 
 Charge Jump Fix
