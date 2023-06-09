@@ -40,3 +40,15 @@ Move During Boss Fanfare
 ------
 
 After defeating a world boss, the game no longer freezes while the victory music is playing, allowing the player to continue to the next world right away
+
+
+Mushroom Hints
+------
+
+Reveals the locations of Mushrooms on the overworld with a light beam (you still have to enter Subspace to collect them)
+
+
+Disable Bomb Flashing
+------
+
+Removes the flashing effect from Bomb explosions, instead changing the sky to a static orange when a bomb explodes
